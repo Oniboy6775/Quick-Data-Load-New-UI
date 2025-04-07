@@ -152,5 +152,5 @@ export const initialState = {
   nin: "",
   // KYC DETAILS
   verificationMethod: "nin",
-  verificationNo: "",
+  // verificationNo: "",
 };
